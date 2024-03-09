@@ -2,7 +2,7 @@
 
 void mergeArrays(int arr1[], int size1, int arr2[], int size2, int mergedArr[]) {
     int i = 0, j = 0, k = 0;
-printf("192372127_ sravanthi\n");
+printf("192373024_Akhilkumar\n");
     while (i < size1 && j < size2) {
         if (arr1[i] < arr2[j]) {
             mergedArr[k] = arr1[i];
